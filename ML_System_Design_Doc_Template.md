@@ -30,7 +30,10 @@
 
 #### 1.2. Бизнес-требования и ограничения  
 
-- Краткое описание БТ и ссылки на детальные документы с бизнес-требованиями `Product Owner`  
+- Краткое описание БТ и ссылки на детальные документы с бизнес-требованиями `Product Owner`
+  - [Бизнес требования для MVP](https://github.com/abirvalg1550/ml_system_design_doc_ru/blob/main/1_Business_understanding/Business_requirements_MVP.md)
+  - [Бизнес требования для целевого продукта](https://github.com/abirvalg1550/ml_system_design_doc_ru/blob/main/1_Business_understanding/Business_requirements_target_product.md)
+
 - Бизнес-ограничения `Product Owner`  
 - Что мы ожидаем от конкретной итерации `Product Owner`. 
 - Описание бизнес-процесса пилота, насколько это возможно - как именно мы будем использовать модель в существующем бизнес-процессе? `Product Owner`    
