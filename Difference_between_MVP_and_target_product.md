@@ -1,9 +1,21 @@
 # Введение 
 
-![Разница между MVP и Целевое видение продукта](https://github.com/abirvalg1550/ml_system_design_doc_ru/blob/main/pic/MVP.jpeg?raw=true)
+![Разница между MVP и Целевое видение продукта ](https://github.com/abirvalg1550/ml_system_design_doc_ru/blob/main/pic/MVP.jpeg?raw=true)
 
-MVP - Минимально жизнеспособный продукт
+MVP - Минимально жизнеспособный продукт. 
+target product - Целевой продукт. 
+
+В рамках работы над магистерской ВКР, под MVP и требованиями к MVP подразумеваются требования, к тому объему работ, которые будут выполнены в рамках программы магистратуры. 
+
+Под целевым продуктом и, соответственно, требованиям к нему подразумевается возможный к реализации полный продукт, который теоретически возможно реализовать. Без учета текущих ограничений на данные, человеческие и вычислительные ресурсы. 
+ 
+
+
+
+
+
+
+
+
 
 Источник: https://chopen.net/chto-takoe-mvp-minimalnyj-produkt-i-kak-ego-sozdat
-
-target product -  ![Схема workflow](https://github.com/IrinaGoloshchapova/ml_system_design_doc_ru/blob/main/Workflow_ML_System_Design_Doc.jpg?raw=true)
