@@ -34,7 +34,9 @@
   - [Бизнес требования для MVP](https://github.com/abirvalg1550/ml_system_design_doc_ru/blob/main/1_Business_understanding/Business_requirements_MVP.md)
   - [Бизнес требования для целевого продукта](https://github.com/abirvalg1550/ml_system_design_doc_ru/blob/main/1_Business_understanding/Business_requirements_target_product.md)
 
-- Бизнес-ограничения `Product Owner`  
+- Бизнес-ограничения `Product Owner`
+  Бизнес-ограничени скорее всего будут едиными для MVP и целевого продукта. 
+
 - Что мы ожидаем от конкретной итерации `Product Owner`. 
 - Описание бизнес-процесса пилота, насколько это возможно - как именно мы будем использовать модель в существующем бизнес-процессе? `Product Owner`    
 - Что считаем успешным пилотом? Критерии успеха и возможные пути развития проекта `Product Owner`
